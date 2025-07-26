@@ -1,0 +1,5005 @@
+[
+    {
+        "Book Title":"A Light in the Attic",
+        "Price (GBP)":51.77,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Tipping the Velvet",
+        "Price (GBP)":53.74,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Soumission",
+        "Price (GBP)":50.1,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Sharp Objects",
+        "Price (GBP)":47.82,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Sapiens: A Brief History of Humankind",
+        "Price (GBP)":54.23,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Requiem Red",
+        "Price (GBP)":22.65,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Dirty Little Secrets of Getting Your Dream Job",
+        "Price (GBP)":33.34,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Coming Woman: A Novel Based on the Life of the Infamous Feminist, Victoria Woodhull",
+        "Price (GBP)":17.93,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics",
+        "Price (GBP)":22.6,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Black Maria",
+        "Price (GBP)":52.15,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Starving Hearts (Triangular Trade Trilogy, #1)",
+        "Price (GBP)":13.99,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Shakespeare's Sonnets",
+        "Price (GBP)":20.66,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Set Me Free",
+        "Price (GBP)":17.46,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Scott Pilgrim's Precious Little Life (Scott Pilgrim #1)",
+        "Price (GBP)":52.29,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Rip it Up and Start Again",
+        "Price (GBP)":35.02,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Our Band Could Be Your Life: Scenes from the American Indie Underground, 1981-1991",
+        "Price (GBP)":57.25,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Olio",
+        "Price (GBP)":23.88,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Mesaerion: The Best Science Fiction Stories 1800-1849",
+        "Price (GBP)":37.59,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Libertarianism for Beginners",
+        "Price (GBP)":51.33,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"It's Only the Himalayas",
+        "Price (GBP)":45.17,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"In Her Wake",
+        "Price (GBP)":12.84,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"How Music Works",
+        "Price (GBP)":37.32,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Foolproof Preserving: A Guide to Small Batch Jams, Jellies, Pickles, Condiments, and More: A Foolproof Guide to Making Small Batch Jams, Jellies, Pickles, Condiments, and More",
+        "Price (GBP)":30.52,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Chase Me (Paris Nights #2)",
+        "Price (GBP)":25.27,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Black Dust",
+        "Price (GBP)":34.53,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Birdsong: A Story in Pictures",
+        "Price (GBP)":54.64,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"America's Cradle of Quarterbacks: Western Pennsylvania's Football Factory from Johnny Unitas to Joe Montana",
+        "Price (GBP)":22.5,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Aladdin and His Wonderful Lamp",
+        "Price (GBP)":53.13,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Worlds Elsewhere: Journeys Around Shakespeare\u2019s Globe",
+        "Price (GBP)":40.3,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Wall and Piece",
+        "Price (GBP)":44.18,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Four Agreements: A Practical Guide to Personal Freedom",
+        "Price (GBP)":17.66,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Five Love Languages: How to Express Heartfelt Commitment to Your Mate",
+        "Price (GBP)":31.05,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Elephant Tree",
+        "Price (GBP)":23.82,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Bear and the Piano",
+        "Price (GBP)":36.89,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Sophie's World",
+        "Price (GBP)":15.94,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Penny Maybe",
+        "Price (GBP)":33.29,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Maude (1883-1993):She Grew Up with the country",
+        "Price (GBP)":18.02,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"In a Dark, Dark Wood",
+        "Price (GBP)":19.63,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Behind Closed Doors",
+        "Price (GBP)":52.22,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"You can't bury them all: Poems",
+        "Price (GBP)":33.63,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Slow States of Collapse: Poems",
+        "Price (GBP)":57.31,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Reasons to Stay Alive",
+        "Price (GBP)":26.41,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Private Paris (Private #10)",
+        "Price (GBP)":47.61,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"#HigherSelfie: Wake Up Your Life. Free Your Soul. Find Your Tribe.",
+        "Price (GBP)":23.11,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Without Borders (Wanderlove #1)",
+        "Price (GBP)":45.07,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"When We Collided",
+        "Price (GBP)":31.77,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"We Love You, Charlie Freeman",
+        "Price (GBP)":50.27,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Untitled Collection: Sabbath Poems 2014",
+        "Price (GBP)":14.27,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Unseen City: The Majesty of Pigeons, the Discreet Charm of Snails & Other Wonders of the Urban Wilderness",
+        "Price (GBP)":44.18,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Unicorn Tracks",
+        "Price (GBP)":18.78,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Unbound: How Eight Technologies Made Us Human, Transformed Society, and Brought Our World to the Brink",
+        "Price (GBP)":25.52,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Tsubasa: WoRLD CHRoNiCLE 2 (Tsubasa WoRLD CHRoNiCLE #2)",
+        "Price (GBP)":16.28,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Throwing Rocks at the Google Bus: How Growth Became the Enemy of Prosperity",
+        "Price (GBP)":31.12,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"This One Summer",
+        "Price (GBP)":19.49,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Thirst",
+        "Price (GBP)":17.27,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Torch Is Passed: A Harding Family Story",
+        "Price (GBP)":19.09,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Secret of Dreadwillow Carse",
+        "Price (GBP)":56.13,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Pioneer Woman Cooks: Dinnertime: Comfort Classics, Freezer Food, 16-Minute Meals, and Other Delicious Ways to Solve Supper!",
+        "Price (GBP)":56.41,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Past Never Ends",
+        "Price (GBP)":56.5,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Natural History of Us (The Fine Art of Pretending #2)",
+        "Price (GBP)":45.22,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Nameless City (The Nameless City #1)",
+        "Price (GBP)":38.16,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Murder That Never Was (Forensic Instincts #5)",
+        "Price (GBP)":54.11,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Most Perfect Thing: Inside (and Outside) a Bird's Egg",
+        "Price (GBP)":42.96,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Mindfulness and Acceptance Workbook for Anxiety: A Guide to Breaking Free from Anxiety, Phobias, and Worry Using Acceptance and Commitment Therapy",
+        "Price (GBP)":23.89,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Life-Changing Magic of Tidying Up: The Japanese Art of Decluttering and Organizing",
+        "Price (GBP)":16.77,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Inefficiency Assassin: Time Management Tactics for Working Smarter, Not Longer",
+        "Price (GBP)":20.59,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Gutsy Girl: Escapades for Your Life of Epic Adventure",
+        "Price (GBP)":37.13,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Electric Pencil: Drawings from Inside State Hospital No. 3",
+        "Price (GBP)":56.06,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Death of Humanity: and the Case for Life",
+        "Price (GBP)":58.11,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Bulletproof Diet: Lose up to a Pound a Day, Reclaim Energy and Focus, Upgrade Your Life",
+        "Price (GBP)":49.05,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Art Forger",
+        "Price (GBP)":40.76,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Age of Genius: The Seventeenth Century and the Birth of the Modern Mind",
+        "Price (GBP)":19.73,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Activist's Tao Te Ching: Ancient Advice for a Modern Revolution",
+        "Price (GBP)":32.24,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Spark Joy: An Illustrated Master Class on the Art of Organizing and Tidying Up",
+        "Price (GBP)":41.83,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Soul Reader",
+        "Price (GBP)":39.58,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Security",
+        "Price (GBP)":39.25,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Saga, Volume 6 (Saga (Collected Editions) #6)",
+        "Price (GBP)":25.02,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Saga, Volume 5 (Saga (Collected Editions) #5)",
+        "Price (GBP)":51.04,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Reskilling America: Learning to Labor in the Twenty-First Century",
+        "Price (GBP)":19.83,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Rat Queens, Vol. 3: Demons (Rat Queens (Collected Editions) #11-15)",
+        "Price (GBP)":50.4,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Princess Jellyfish 2-in-1 Omnibus, Vol. 01 (Princess Jellyfish 2-in-1 Omnibus #1)",
+        "Price (GBP)":13.61,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Princess Between Worlds (Wide-Awake Princess #5)",
+        "Price (GBP)":13.34,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Pop Gun War, Volume 1: Gift",
+        "Price (GBP)":18.97,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Political Suicide: Missteps, Peccadilloes, Bad Calls, Backroom Hijinx, Sordid Pasts, Rotten Breaks, and Just Plain Dumb Mistakes in the Annals of American Politics",
+        "Price (GBP)":36.28,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Patience",
+        "Price (GBP)":10.16,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Outcast, Vol. 1: A Darkness Surrounds Him (Outcast #1)",
+        "Price (GBP)":15.44,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"orange: The Complete Collection 1 (orange: The Complete Collection #1)",
+        "Price (GBP)":48.41,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Online Marketing for Busy Authors: A Step-By-Step Guide",
+        "Price (GBP)":46.35,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"On a Midnight Clear",
+        "Price (GBP)":14.07,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Obsidian (Lux #1)",
+        "Price (GBP)":14.86,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"My Paris Kitchen: Recipes and Stories",
+        "Price (GBP)":33.37,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Masks and Shadows",
+        "Price (GBP)":56.4,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Mama Tried: Traditional Italian Cooking for the Screwed, Crude, Vegan, and Tattooed",
+        "Price (GBP)":14.02,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Lumberjanes, Vol. 2: Friendship to the Max (Lumberjanes #5-8)",
+        "Price (GBP)":46.91,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Lumberjanes, Vol. 1: Beware the Kitten Holy (Lumberjanes #1-4)",
+        "Price (GBP)":45.61,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Lumberjanes Vol. 3: A Terrible Plan (Lumberjanes #9-12)",
+        "Price (GBP)":19.92,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Layered: Baking, Building, and Styling Spectacular Cakes",
+        "Price (GBP)":40.11,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Judo: Seven Steps to Black Belt (an Introductory Guide for Beginners)",
+        "Price (GBP)":53.9,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Join",
+        "Price (GBP)":35.67,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"In the Country We Love: My Family Divided",
+        "Price (GBP)":22.0,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Immunity: How Elie Metchnikoff Changed the Course of Modern Medicine",
+        "Price (GBP)":57.36,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"I Hate Fairyland, Vol. 1: Madly Ever After (I Hate Fairyland (Compilations) #1-5)",
+        "Price (GBP)":29.17,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"I am a Hero Omnibus Volume 1",
+        "Price (GBP)":54.63,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"How to Be Miserable: 40 Strategies You Already Use",
+        "Price (GBP)":46.03,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Her Backup Boyfriend (The Sorensen Family #1)",
+        "Price (GBP)":33.97,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Giant Days, Vol. 2 (Giant Days #5-8)",
+        "Price (GBP)":22.11,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Forever and Forever: The Courtship of Henry Longfellow and Fanny Appleton",
+        "Price (GBP)":29.69,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"First and First (Five Boroughs #3)",
+        "Price (GBP)":15.97,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Fifty Shades Darker (Fifty Shades #2)",
+        "Price (GBP)":21.96,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Everydata: The Misinformation Hidden in the Little Data You Consume Every Day",
+        "Price (GBP)":54.35,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Don't Be a Jerk: And Other Practical Advice from Dogen, Japan's Greatest Zen Master",
+        "Price (GBP)":37.97,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Danganronpa Volume 1",
+        "Price (GBP)":51.99,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Crown of Midnight (Throne of Glass #2)",
+        "Price (GBP)":43.29,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Codename Baboushka, Volume 1: The Conclave of Death",
+        "Price (GBP)":36.72,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Camp Midnight",
+        "Price (GBP)":17.08,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Call the Nurse: True Stories of a Country Nurse on a Scottish Isle",
+        "Price (GBP)":29.14,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Burning",
+        "Price (GBP)":28.81,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Bossypants",
+        "Price (GBP)":49.46,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Bitch Planet, Vol. 1: Extraordinary Machine (Bitch Planet (Collected Editions))",
+        "Price (GBP)":37.92,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Avatar: The Last Airbender: Smoke and Shadow, Part 3 (Smoke and Shadow #3)",
+        "Price (GBP)":28.09,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Algorithms to Live By: The Computer Science of Human Decisions",
+        "Price (GBP)":30.81,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"A World of Flavor: Your Gluten Free Passport",
+        "Price (GBP)":42.95,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"A Piece of Sky, a Grain of Rice: A Memoir in Four Meditations",
+        "Price (GBP)":56.76,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"A Murder in Time",
+        "Price (GBP)":16.64,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"A Flight of Arrows (The Pathfinders #2)",
+        "Price (GBP)":55.53,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"A Fierce and Subtle Poison",
+        "Price (GBP)":28.13,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"A Court of Thorns and Roses (A Court of Thorns and Roses #1)",
+        "Price (GBP)":52.37,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"(Un)Qualified: How God Uses Broken People to Do Big Things",
+        "Price (GBP)":54.0,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"You Are What You Love: The Spiritual Power of Habit",
+        "Price (GBP)":21.87,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"William Shakespeare's Star Wars: Verily, A New Hope (William Shakespeare's Star Wars #4)",
+        "Price (GBP)":43.3,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Tuesday Nights in 1980",
+        "Price (GBP)":21.04,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Tracing Numbers on a Train",
+        "Price (GBP)":41.6,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Throne of Glass (Throne of Glass #1)",
+        "Price (GBP)":35.07,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Thomas Jefferson and the Tripoli Pirates: The Forgotten War That Changed American History",
+        "Price (GBP)":59.64,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Thirteen Reasons Why",
+        "Price (GBP)":52.72,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The White Cat and the Monk: A Retelling of the Poem \u201cPangur B\u00e1n\u201d",
+        "Price (GBP)":58.08,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Wedding Dress",
+        "Price (GBP)":24.12,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Vacationers",
+        "Price (GBP)":42.15,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Third Wave: An Entrepreneur\u2019s Vision of the Future",
+        "Price (GBP)":12.61,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Stranger",
+        "Price (GBP)":17.44,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Shadow Hero (The Shadow Hero)",
+        "Price (GBP)":33.14,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Secret (The Secret #1)",
+        "Price (GBP)":27.37,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Regional Office Is Under Attack!",
+        "Price (GBP)":51.36,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Psychopath Test: A Journey Through the Madness Industry",
+        "Price (GBP)":36.0,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Project",
+        "Price (GBP)":10.65,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Power of Now: A Guide to Spiritual Enlightenment",
+        "Price (GBP)":43.54,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Omnivore's Dilemma: A Natural History of Four Meals",
+        "Price (GBP)":38.21,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Nerdy Nummies Cookbook: Sweet Treats for the Geek in All of Us",
+        "Price (GBP)":37.34,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Murder of Roger Ackroyd (Hercule Poirot #4)",
+        "Price (GBP)":44.1,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Mistake (Off-Campus #2)",
+        "Price (GBP)":43.29,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Matchmaker's Playbook (Wingmen Inc. #1)",
+        "Price (GBP)":55.85,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Love and Lemons Cookbook: An Apple-to-Zucchini Celebration of Impromptu Cooking",
+        "Price (GBP)":37.6,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Long Shadow of Small Ghosts: Murder and Memory in an American City",
+        "Price (GBP)":10.97,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Kite Runner",
+        "Price (GBP)":41.82,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The House by the Lake",
+        "Price (GBP)":36.95,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Glittering Court (The Glittering Court #1)",
+        "Price (GBP)":44.28,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Girl on the Train",
+        "Price (GBP)":55.02,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Genius of Birds",
+        "Price (GBP)":17.24,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Emerald Mystery",
+        "Price (GBP)":23.15,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Cookies & Cups Cookbook: 125+ sweet & savory recipes reminding you to Always Eat Dessert First",
+        "Price (GBP)":41.25,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Bridge to Consciousness: I'm Writing the Bridge Between Science and Our Old and New Beliefs.",
+        "Price (GBP)":32.0,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Artist's Way: A Spiritual Path to Higher Creativity",
+        "Price (GBP)":38.49,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Art of War",
+        "Price (GBP)":33.34,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Argonauts",
+        "Price (GBP)":10.93,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The 10% Entrepreneur: Live Your Startup Dream Without Quitting Your Day Job",
+        "Price (GBP)":27.55,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Suddenly in Love (Lake Haven #1)",
+        "Price (GBP)":55.99,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Something More Than This",
+        "Price (GBP)":16.24,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Soft Apocalypse",
+        "Price (GBP)":26.12,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"So You've Been Publicly Shamed",
+        "Price (GBP)":12.23,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Shoe Dog: A Memoir by the Creator of NIKE",
+        "Price (GBP)":23.99,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Shobu Samurai, Project Aryoku (#3)",
+        "Price (GBP)":29.06,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Secrets and Lace (Fatal Hearts #1)",
+        "Price (GBP)":20.27,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Scarlett Epstein Hates It Here",
+        "Price (GBP)":43.55,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Romero and Juliet: A Tragic Tale of Love and Zombies",
+        "Price (GBP)":36.94,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Redeeming Love",
+        "Price (GBP)":20.47,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Poses for Artists Volume 1 - Dynamic and Sitting Poses: An Essential Reference for Figure Drawing and the Human Form",
+        "Price (GBP)":41.06,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Poems That Make Grown Women Cry",
+        "Price (GBP)":14.19,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Nightingale, Sing",
+        "Price (GBP)":38.28,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Night Sky with Exit Wounds",
+        "Price (GBP)":41.05,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Mrs. Houdini",
+        "Price (GBP)":30.25,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Modern Romance",
+        "Price (GBP)":28.26,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Miss Peregrine\u2019s Home for Peculiar Children (Miss Peregrine\u2019s Peculiar Children #1)",
+        "Price (GBP)":10.76,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Louisa: The Extraordinary Life of Mrs. Adams",
+        "Price (GBP)":16.85,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Little Red",
+        "Price (GBP)":13.47,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Library of Souls (Miss Peregrine\u2019s Peculiar Children #3)",
+        "Price (GBP)":48.56,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Large Print Heart of the Pride",
+        "Price (GBP)":19.15,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"I Had a Nice Time And Other Lies...: How to find love & sh*t like that",
+        "Price (GBP)":57.36,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Hollow City (Miss Peregrine\u2019s Peculiar Children #2)",
+        "Price (GBP)":42.98,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Grumbles",
+        "Price (GBP)":22.16,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Full Moon over Noah\u2019s Ark: An Odyssey to Mount Ararat and Beyond",
+        "Price (GBP)":49.43,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Frostbite (Vampire Academy #2)",
+        "Price (GBP)":29.99,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Follow You Home",
+        "Price (GBP)":21.36,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"First Steps for New Christians (Print Edition)",
+        "Price (GBP)":29.0,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Finders Keepers (Bill Hodges Trilogy #2)",
+        "Price (GBP)":53.53,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Fables, Vol. 1: Legends in Exile (Fables #1)",
+        "Price (GBP)":41.62,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Eureka Trivia 6.0",
+        "Price (GBP)":54.59,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Drive: The Surprising Truth About What Motivates Us",
+        "Price (GBP)":34.95,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Done Rubbed Out (Reightman & Bailey #1)",
+        "Price (GBP)":37.72,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Doing It Over (Most Likely To #1)",
+        "Price (GBP)":35.61,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Deliciously Ella Every Day: Quick and Easy Recipes for Gluten-Free Snacks, Packed Lunches, and Simple Meals",
+        "Price (GBP)":42.16,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Dark Notes",
+        "Price (GBP)":19.19,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Daring Greatly: How the Courage to Be Vulnerable Transforms the Way We Live, Love, Parent, and Lead",
+        "Price (GBP)":19.43,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Close to You",
+        "Price (GBP)":49.46,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Chasing Heaven: What Dying Taught Me About Living",
+        "Price (GBP)":37.8,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Big Magic: Creative Living Beyond Fear",
+        "Price (GBP)":30.8,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Becoming Wise: An Inquiry into the Mystery and Art of Living",
+        "Price (GBP)":27.43,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Beauty Restored (Riley Family Legacy Novellas #3)",
+        "Price (GBP)":11.11,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Batman: The Long Halloween (Batman)",
+        "Price (GBP)":36.5,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Batman: The Dark Knight Returns (Batman)",
+        "Price (GBP)":15.38,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Ayumi's Violin",
+        "Price (GBP)":15.48,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Anonymous",
+        "Price (GBP)":46.82,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Amy Meets the Saints and Sages",
+        "Price (GBP)":18.46,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Amid the Chaos",
+        "Price (GBP)":36.58,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Amatus",
+        "Price (GBP)":50.54,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Agnostic: A Spirited Manifesto",
+        "Price (GBP)":12.51,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Zealot: The Life and Times of Jesus of Nazareth",
+        "Price (GBP)":24.7,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"You (You #1)",
+        "Price (GBP)":43.61,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Wonder Woman: Earth One, Volume One (Wonder Woman: Earth One #1)",
+        "Price (GBP)":37.34,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Wild Swans",
+        "Price (GBP)":14.36,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Why the Right Went Wrong: Conservatism--From Goldwater to the Tea Party and Beyond",
+        "Price (GBP)":52.65,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Whole Lotta Creativity Going On: 60 Fun and Unusual Exercises to Awaken and Strengthen Your Creativity",
+        "Price (GBP)":38.2,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"What's It Like in Space?: Stories from Astronauts Who've Been There",
+        "Price (GBP)":19.6,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"We Are Robin, Vol. 1: The Vigilante Business (We Are Robin #1)",
+        "Price (GBP)":53.9,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Walt Disney's Alice in Wonderland",
+        "Price (GBP)":12.96,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"V for Vendetta (V for Vendetta Complete)",
+        "Price (GBP)":37.1,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Until Friday Night (The Field Party #1)",
+        "Price (GBP)":46.31,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Unbroken: A World War II Story of Survival, Resilience, and Redemption",
+        "Price (GBP)":45.95,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Twenty Yawns",
+        "Price (GBP)":22.08,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Through the Woods",
+        "Price (GBP)":25.38,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"This Is Where It Ends",
+        "Price (GBP)":27.12,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Year of Magical Thinking",
+        "Price (GBP)":43.04,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Wright Brothers",
+        "Price (GBP)":56.8,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The White Queen (The Cousins' War #1)",
+        "Price (GBP)":25.91,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Wedding Pact (The O'Malleys #2)",
+        "Price (GBP)":32.61,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Time Keeper",
+        "Price (GBP)":27.88,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Testament of Mary",
+        "Price (GBP)":52.67,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Star-Touched Queen",
+        "Price (GBP)":46.02,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Songs of the Gods",
+        "Price (GBP)":44.48,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Song of Achilles",
+        "Price (GBP)":37.4,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Rosie Project (Don Tillman #1)",
+        "Price (GBP)":54.04,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Power of Habit: Why We Do What We Do in Life and Business",
+        "Price (GBP)":16.88,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Marriage of Opposites",
+        "Price (GBP)":28.08,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Lucifer Effect: Understanding How Good People Turn Evil",
+        "Price (GBP)":10.4,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Long Haul (Diary of a Wimpy Kid #9)",
+        "Price (GBP)":44.07,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Loney",
+        "Price (GBP)":23.4,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Literature Book (Big Ideas Simply Explained)",
+        "Price (GBP)":17.43,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Last Mile (Amos Decker #2)",
+        "Price (GBP)":54.21,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Immortal Life of Henrietta Lacks",
+        "Price (GBP)":40.67,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Hidden Oracle (The Trials of Apollo #1)",
+        "Price (GBP)":52.26,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Help Yourself Cookbook for Kids: 60 Easy Plant-Based Recipes Kids Can Make to Stay Healthy and Save the Earth",
+        "Price (GBP)":28.77,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Guilty (Will Robie #4)",
+        "Price (GBP)":13.82,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The First Hostage (J.B. Collins #2)",
+        "Price (GBP)":25.85,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Dovekeepers",
+        "Price (GBP)":48.78,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Darkest Lie",
+        "Price (GBP)":35.35,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Bane Chronicles (The Bane Chronicles #1-11)",
+        "Price (GBP)":44.73,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Bad-Ass Librarians of Timbuktu: And Their Race to Save the World\u2019s Most Precious Manuscripts",
+        "Price (GBP)":15.77,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The 14th Colony (Cotton Malone #11)",
+        "Price (GBP)":39.24,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"That Darkness (Gardiner and Renner #1)",
+        "Price (GBP)":13.92,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Tastes Like Fear (DI Marnie Rome #3)",
+        "Price (GBP)":10.69,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Take Me with You",
+        "Price (GBP)":45.21,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Swell: A Year of Waves",
+        "Price (GBP)":45.58,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Superman Vol. 1: Before Truth (Superman by Gene Luen Yang #1)",
+        "Price (GBP)":11.89,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Still Life with Bread Crumbs",
+        "Price (GBP)":26.41,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Steve Jobs",
+        "Price (GBP)":39.5,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Sorting the Beef from the Bull: The Science of Food Fraud Forensics",
+        "Price (GBP)":44.74,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Someone Like You (The Harrisons #2)",
+        "Price (GBP)":52.79,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"So Cute It Hurts!!, Vol. 6 (So Cute It Hurts!! #6)",
+        "Price (GBP)":35.43,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Shtum",
+        "Price (GBP)":55.84,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"See America: A Celebration of Our National Parks & Treasured Sites",
+        "Price (GBP)":48.87,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"salt.",
+        "Price (GBP)":46.78,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Robin War",
+        "Price (GBP)":47.82,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Red Hood\/Arsenal, Vol. 1: Open for Business (Red Hood\/Arsenal #1)",
+        "Price (GBP)":25.48,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Rain Fish",
+        "Price (GBP)":23.57,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Quarter Life Poetry: Poems for the Young, Broke and Hangry",
+        "Price (GBP)":50.89,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Pet Sematary",
+        "Price (GBP)":10.56,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Overload: How to Unplug, Unwind, and Unleash Yourself from the Pressure of Stress",
+        "Price (GBP)":52.15,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Once Was a Time",
+        "Price (GBP)":18.28,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Old School (Diary of a Wimpy Kid #10)",
+        "Price (GBP)":11.83,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"No Dream Is Too High: Life Lessons From a Man Who Walked on the Moon",
+        "Price (GBP)":21.95,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Naruto (3-in-1 Edition), Vol. 14: Includes Vols. 40, 41 & 42 (Naruto: Omnibus #14)",
+        "Price (GBP)":38.39,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"My Name Is Lucy Barton",
+        "Price (GBP)":41.56,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"My Mrs. Brown",
+        "Price (GBP)":24.48,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"My Kind of Crazy",
+        "Price (GBP)":40.36,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Mr. Mercedes (Bill Hodges Trilogy #1)",
+        "Price (GBP)":28.9,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"More Than Music (Chasing the Dream #1)",
+        "Price (GBP)":37.61,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Made to Stick: Why Some Ideas Survive and Others Die",
+        "Price (GBP)":38.85,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Luis Paints the World",
+        "Price (GBP)":53.95,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Luckiest Girl Alive",
+        "Price (GBP)":49.83,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Lowriders to the Center of the Earth (Lowriders in Space #2)",
+        "Price (GBP)":51.51,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Love Is a Mix Tape (Music #1)",
+        "Price (GBP)":18.03,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Looking for Lovely: Collecting the Moments that Matter",
+        "Price (GBP)":29.14,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Living Leadership by Insight: A Good Leader Achieves, a Great Leader Builds Monuments",
+        "Price (GBP)":46.91,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Let It Out: A Journey Through Journaling",
+        "Price (GBP)":26.79,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Lady Midnight (The Dark Artifices #1)",
+        "Price (GBP)":16.28,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"It's All Easy: Healthy, Delicious Weeknight Meals in under 30 Minutes",
+        "Price (GBP)":19.55,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Island of Dragons (Unwanteds #7)",
+        "Price (GBP)":29.65,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"I Know What I'm Doing -- and Other Lies I Tell Myself: Dispatches from a Life Under Construction",
+        "Price (GBP)":25.98,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"I Am Pilgrim (Pilgrim #1)",
+        "Price (GBP)":10.6,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Hyperbole and a Half: Unfortunate Situations, Flawed Coping Mechanisms, Mayhem, and Other Things That Happened",
+        "Price (GBP)":14.75,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Hush, Hush (Hush, Hush #1)",
+        "Price (GBP)":47.02,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Hold Your Breath (Search and Rescue #1)",
+        "Price (GBP)":28.82,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Hamilton: The Revolution",
+        "Price (GBP)":58.79,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Greek Mythic History",
+        "Price (GBP)":10.23,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"God: The Most Unpleasant Character in All Fiction",
+        "Price (GBP)":30.03,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Glory over Everything: Beyond The Kitchen House",
+        "Price (GBP)":45.84,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Feathers: Displays of Brilliant Plumage",
+        "Price (GBP)":49.05,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Far & Away: Places on the Brink of Change: Seven Continents, Twenty-Five Years",
+        "Price (GBP)":15.06,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Every Last Word",
+        "Price (GBP)":46.47,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Eligible (The Austen Project #4)",
+        "Price (GBP)":27.09,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"El Deafo",
+        "Price (GBP)":57.62,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Eight Hundred Grapes",
+        "Price (GBP)":14.39,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Eaternity: More than 150 Deliciously Easy Vegan Recipes for a Long, Healthy, Satisfied, Joyful Life",
+        "Price (GBP)":51.75,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Eat Fat, Get Thin",
+        "Price (GBP)":54.07,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Don't Get Caught",
+        "Price (GBP)":55.35,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Doctor Sleep (The Shining #2)",
+        "Price (GBP)":40.12,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Demigods & Magicians: Percy and Annabeth Meet the Kanes (Percy Jackson & Kane Chronicles Crossover #1-3)",
+        "Price (GBP)":37.51,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Dear Mr. Knightley",
+        "Price (GBP)":11.21,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Daily Fantasy Sports",
+        "Price (GBP)":36.58,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Crazy Love: Overwhelmed by a Relentless God",
+        "Price (GBP)":47.72,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Cometh the Hour (The Clifton Chronicles #6)",
+        "Price (GBP)":25.01,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Code Name Verity (Code Name Verity #1)",
+        "Price (GBP)":22.13,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Clockwork Angel (The Infernal Devices #1)",
+        "Price (GBP)":44.14,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"City of Glass (The Mortal Instruments #3)",
+        "Price (GBP)":56.02,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"City of Fallen Angels (The Mortal Instruments #4)",
+        "Price (GBP)":11.23,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"City of Bones (The Mortal Instruments #1)",
+        "Price (GBP)":43.28,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"City of Ashes (The Mortal Instruments #2)",
+        "Price (GBP)":47.27,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Cell",
+        "Price (GBP)":20.29,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Catching Jordan (Hundred Oaks)",
+        "Price (GBP)":50.83,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Carry On, Warrior: Thoughts on Life Unarmed",
+        "Price (GBP)":31.85,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Carrie",
+        "Price (GBP)":46.23,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Buying In: The Secret Dialogue Between What We Buy and Who We Are",
+        "Price (GBP)":37.8,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Brain on Fire: My Month of Madness",
+        "Price (GBP)":49.32,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Batman: Europa",
+        "Price (GBP)":32.01,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Barefoot Contessa Back to Basics",
+        "Price (GBP)":28.01,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Barefoot Contessa at Home: Everyday Recipes You'll Make Over and Over Again",
+        "Price (GBP)":50.62,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Balloon Animals",
+        "Price (GBP)":17.03,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Art Ops Vol. 1",
+        "Price (GBP)":48.8,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Aristotle and Dante Discover the Secrets of the Universe (Aristotle and Dante Discover the Secrets of the Universe #1)",
+        "Price (GBP)":58.14,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Angels Walking (Angels Walking #1)",
+        "Price (GBP)":34.2,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Angels & Demons (Robert Langdon #1)",
+        "Price (GBP)":51.48,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"All the Light We Cannot See",
+        "Price (GBP)":29.87,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Adulthood Is a Myth: A \"Sarah's Scribbles\" Collection",
+        "Price (GBP)":10.9,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Abstract City",
+        "Price (GBP)":56.37,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"A Time of Torment (Charlie Parker #14)",
+        "Price (GBP)":48.35,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"A Study in Scarlet (Sherlock Holmes #1)",
+        "Price (GBP)":16.73,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"A Series of Catastrophes and Miracles: A True Story of Love, Science, and Cancer",
+        "Price (GBP)":56.48,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"A People's History of the United States",
+        "Price (GBP)":40.79,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"A Man Called Ove",
+        "Price (GBP)":39.72,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"A Distant Mirror: The Calamitous 14th Century",
+        "Price (GBP)":14.58,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"A Brush of Wings (Angels Walking #3)",
+        "Price (GBP)":55.51,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"1491: New Revelations of the Americas Before Columbus",
+        "Price (GBP)":21.8,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Three Searches, Meaning, and the Story",
+        "Price (GBP)":13.33,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Searching for Meaning in Gailana",
+        "Price (GBP)":38.73,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Rook",
+        "Price (GBP)":37.86,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"My Kitchen Year: 136 Recipes That Saved My Life",
+        "Price (GBP)":11.53,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"13 Hours: The Inside Account of What Really Happened In Benghazi",
+        "Price (GBP)":27.06,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Will You Won't You Want Me?",
+        "Price (GBP)":13.86,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Tipping Point for Planet Earth: How Close Are We to the Edge?",
+        "Price (GBP)":37.55,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Star-Touched Queen",
+        "Price (GBP)":32.3,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Silent Sister (Riley MacPherson #1)",
+        "Price (GBP)":46.29,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Midnight Watch: A Novel of the Titanic and the Californian",
+        "Price (GBP)":26.2,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Lonely City: Adventures in the Art of Being Alone",
+        "Price (GBP)":33.26,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Gray Rhino: How to Recognize and Act on the Obvious Dangers We Ignore",
+        "Price (GBP)":59.15,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Golden Condom: And Other Essays on Love Lost and Found",
+        "Price (GBP)":39.43,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Epidemic (The Program 0.6)",
+        "Price (GBP)":14.44,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Dinner Party",
+        "Price (GBP)":56.54,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Diary of a Young Girl",
+        "Price (GBP)":59.9,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Children",
+        "Price (GBP)":11.88,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Stars Above (The Lunar Chronicles #4.5)",
+        "Price (GBP)":48.05,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Snatched: How A Drug Queen Went Undercover for the DEA and Was Kidnapped By Colombian Guerillas",
+        "Price (GBP)":21.21,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Raspberry Pi Electronics Projects for the Evil Genius",
+        "Price (GBP)":49.67,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Quench Your Own Thirst: Business Lessons Learned Over a Beer or Two",
+        "Price (GBP)":43.14,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Psycho: Sanitarium (Psycho #1.5)",
+        "Price (GBP)":36.97,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Poisonous (Max Revere Novels #3)",
+        "Price (GBP)":26.8,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"One with You (Crossfire #5)",
+        "Price (GBP)":15.71,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"No Love Allowed (Dodge Cove #1)",
+        "Price (GBP)":54.65,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Murder at the 42nd Street Library (Raymond Ambler #1)",
+        "Price (GBP)":54.36,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Most Wanted",
+        "Price (GBP)":35.28,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Love, Lies and Spies",
+        "Price (GBP)":20.55,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"How to Speak Golf: An Illustrated Guide to Links Lingo",
+        "Price (GBP)":58.32,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Hide Away (Eve Duncan #20)",
+        "Price (GBP)":11.84,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Furiously Happy: A Funny Book About Horrible Things",
+        "Price (GBP)":41.46,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Everyday Italian: 125 Simple and Delicious Recipes",
+        "Price (GBP)":20.1,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Equal Is Unfair: America's Misguided Fight Against Income Inequality",
+        "Price (GBP)":56.86,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Eleanor & Park",
+        "Price (GBP)":56.51,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Dirty (Dive Bar #1)",
+        "Price (GBP)":40.83,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Can You Keep a Secret? (Fear Street Relaunch #4)",
+        "Price (GBP)":48.64,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Boar Island (Anna Pigeon #19)",
+        "Price (GBP)":59.48,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"A Paris Apartment",
+        "Price (GBP)":39.01,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"A la Mode: 120 Recipes in 60 Pairings: Pies, Tarts, Cakes, Crisps, and More Topped with Ice Cream, Gelato, Frozen Custard, and More",
+        "Price (GBP)":38.77,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Troublemaker: Surviving Hollywood and Scientology",
+        "Price (GBP)":48.39,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Widow",
+        "Price (GBP)":27.26,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Sleep Revolution: Transforming Your Life, One Night at a Time",
+        "Price (GBP)":11.68,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Improbability of Love",
+        "Price (GBP)":59.45,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Art of Startup Fundraising",
+        "Price (GBP)":21.0,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Take Me Home Tonight (Rock Star Romance #3)",
+        "Price (GBP)":53.98,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Sleeping Giants (Themis Files #1)",
+        "Price (GBP)":48.74,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Setting the World on Fire: The Brief, Astonishing Life of St. Catherine of Siena",
+        "Price (GBP)":21.15,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Playing with Fire",
+        "Price (GBP)":13.71,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Off the Hook (Fishing for Trouble #1)",
+        "Price (GBP)":47.67,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Mothering Sunday",
+        "Price (GBP)":13.34,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Mother, Can You Not?",
+        "Price (GBP)":16.89,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"M Train",
+        "Price (GBP)":27.18,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Lilac Girls",
+        "Price (GBP)":17.28,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Lies and Other Acts of Love",
+        "Price (GBP)":45.14,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Lab Girl",
+        "Price (GBP)":40.85,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Keep Me Posted",
+        "Price (GBP)":20.46,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"It Didn't Start with You: How Inherited Family Trauma Shapes Who We Are and How to End the Cycle",
+        "Price (GBP)":56.27,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Grey (Fifty Shades #4)",
+        "Price (GBP)":48.49,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Exit, Pursued by a Bear",
+        "Price (GBP)":51.34,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Daredevils",
+        "Price (GBP)":16.34,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Cravings: Recipes for What You Want to Eat",
+        "Price (GBP)":20.5,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Born for This: How to Find the Work You Were Meant to Do",
+        "Price (GBP)":21.59,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Arena",
+        "Price (GBP)":21.36,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Adultery",
+        "Price (GBP)":20.88,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"A Mother's Reckoning: Living in the Aftermath of Tragedy",
+        "Price (GBP)":19.53,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"A Gentleman's Position (Society of Gentlemen #3)",
+        "Price (GBP)":14.75,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"11\/22\/63",
+        "Price (GBP)":48.48,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"10% Happier: How I Tamed the Voice in My Head, Reduced Stress Without Losing My Edge, and Found Self-Help That Actually Works",
+        "Price (GBP)":24.57,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"10-Day Green Smoothie Cleanse: Lose Up to 15 Pounds in 10 Days!",
+        "Price (GBP)":49.71,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Without Shame",
+        "Price (GBP)":48.27,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Watchmen",
+        "Price (GBP)":58.05,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Unlimited Intuition Now",
+        "Price (GBP)":58.87,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Underlying Notes",
+        "Price (GBP)":11.82,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Shack",
+        "Price (GBP)":28.03,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The New Brand You: Your New Image Makes the Sale for You",
+        "Price (GBP)":44.05,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Moosewood Cookbook: Recipes from Moosewood Restaurant, Ithaca, New York",
+        "Price (GBP)":12.34,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Flowers Lied",
+        "Price (GBP)":16.68,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Fabric of the Cosmos: Space, Time, and the Texture of Reality",
+        "Price (GBP)":55.91,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Book of Mormon",
+        "Price (GBP)":24.57,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Art and Science of Low Carbohydrate Living",
+        "Price (GBP)":52.98,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Alien Club",
+        "Price (GBP)":54.4,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Suzie Snowflake: One beautiful flake (a self-esteem story)",
+        "Price (GBP)":54.81,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Nap-a-Roo",
+        "Price (GBP)":25.08,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"NaNo What Now? Finding your editing process, revising your NaNoWriMo book and building a writing career through publishing and beyond",
+        "Price (GBP)":10.41,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Modern Day Fables",
+        "Price (GBP)":47.44,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"If I Gave You God's Phone Number....: Searching for Spirituality in America",
+        "Price (GBP)":20.91,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Fruits Basket, Vol. 9 (Fruits Basket #9)",
+        "Price (GBP)":33.95,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Dress Your Family in Corduroy and Denim",
+        "Price (GBP)":43.68,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Don't Forget Steven",
+        "Price (GBP)":33.23,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Chernobyl 01:23:40: The Incredible True Story of the World's Worst Nuclear Disaster",
+        "Price (GBP)":35.92,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Art and Fear: Observations on the Perils (and Rewards) of Artmaking",
+        "Price (GBP)":48.63,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"A Shard of Ice (The Black Symphony Saga #1)",
+        "Price (GBP)":56.63,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"A Hero's Curse (The Unseen Chronicles #1)",
+        "Price (GBP)":50.49,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"23 Degrees South: A Tropical Tale of Changing Whether...",
+        "Price (GBP)":35.79,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Zero to One: Notes on Startups, or How to Build the Future",
+        "Price (GBP)":34.06,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Why Not Me?",
+        "Price (GBP)":17.76,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"When Breath Becomes Air",
+        "Price (GBP)":39.36,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Vagabonding: An Uncommon Guide to the Art of Long-Term World Travel",
+        "Price (GBP)":36.94,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Unlikely Pilgrimage of Harold Fry (Harold Fry #1)",
+        "Price (GBP)":43.62,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The New Drawing on the Right Side of the Brain",
+        "Price (GBP)":43.02,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Midnight Assassin: Panic, Scandal, and the Hunt for America's First Serial Killer",
+        "Price (GBP)":28.45,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Martian (The Martian #1)",
+        "Price (GBP)":41.39,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The High Mountains of Portugal",
+        "Price (GBP)":51.15,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Grownup",
+        "Price (GBP)":35.88,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The E-Myth Revisited: Why Most Small Businesses Don't Work and What to Do About It",
+        "Price (GBP)":36.91,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"South of Sunshine",
+        "Price (GBP)":28.93,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Smarter Faster Better: The Secrets of Being Productive in Life and Business",
+        "Price (GBP)":38.89,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Silence in the Dark (Logan Point #4)",
+        "Price (GBP)":58.33,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Shadows of the Past (Logan Point #1)",
+        "Price (GBP)":39.67,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Roller Girl",
+        "Price (GBP)":14.1,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Rising Strong",
+        "Price (GBP)":21.82,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Proofs of God: Classical Arguments from Tertullian to Barth",
+        "Price (GBP)":54.21,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Please Kill Me: The Uncensored Oral History of Punk",
+        "Price (GBP)":31.19,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Out of Print: City Lights Spotlight No. 14",
+        "Price (GBP)":53.64,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"My Life Next Door (My Life Next Door )",
+        "Price (GBP)":36.39,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Miller's Valley",
+        "Price (GBP)":58.54,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Man's Search for Meaning",
+        "Price (GBP)":29.48,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Love That Boy: What Two Presidents, Eight Road Trips, and My Son Taught Me About a Parent's Expectations",
+        "Price (GBP)":25.06,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Living Forward: A Proven Plan to Stop Drifting and Get the Life You Want",
+        "Price (GBP)":12.55,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Les Fleurs du Mal",
+        "Price (GBP)":29.04,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Left Behind (Left Behind #1)",
+        "Price (GBP)":40.72,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Kill 'Em and Leave: Searching for James Brown and the American Soul",
+        "Price (GBP)":45.05,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Kierkegaard: A Christian Missionary to Christians",
+        "Price (GBP)":47.13,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"John Vassos: Industrial Design for Modern Life",
+        "Price (GBP)":20.22,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"I'll Give You the Sun",
+        "Price (GBP)":56.48,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"I Will Find You",
+        "Price (GBP)":44.21,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Hystopia: A Novel",
+        "Price (GBP)":21.96,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Howl and Other Poems",
+        "Price (GBP)":40.45,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"History of Beauty",
+        "Price (GBP)":10.29,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Heaven is for Real: A Little Boy's Astounding Story of His Trip to Heaven and Back",
+        "Price (GBP)":52.86,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Future Shock (Future Shock #1)",
+        "Price (GBP)":55.65,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Ender's Game (The Ender Quintet #1)",
+        "Price (GBP)":43.64,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Diary of a Citizen Scientist: Chasing Tiger Beetles and Other New Ways of Engaging the World",
+        "Price (GBP)":28.41,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Death by Leisure: A Cautionary Tale",
+        "Price (GBP)":37.51,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Brilliant Beacons: A History of the American Lighthouse",
+        "Price (GBP)":11.45,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Brazen: The Courage to Find the You That's Been Hiding",
+        "Price (GBP)":19.22,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Between the World and Me",
+        "Price (GBP)":56.91,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Being Mortal: Medicine and What Matters in the End",
+        "Price (GBP)":55.06,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"A Murder Over a Girl: Justice, Gender, Junior High",
+        "Price (GBP)":13.2,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"32 Yolks",
+        "Price (GBP)":53.63,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"\"Most Blessed of the Patriarchs\": Thomas Jefferson and the Empire of the Imagination",
+        "Price (GBP)":44.48,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"You Are a Badass: How to Stop Doubting Your Greatness and Start Living an Awesome Life",
+        "Price (GBP)":12.08,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Wildlife of New York: A Five-Borough Coloring Book",
+        "Price (GBP)":22.14,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"What Happened on Beale Street (Secrets of the South Mysteries #2)",
+        "Price (GBP)":25.37,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Unreasonable Hope: Finding Faith in the God Who Brings Purpose to Your Pain",
+        "Price (GBP)":46.33,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Under the Tuscan Sun",
+        "Price (GBP)":37.33,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Toddlers Are A**holes: It's Not Your Fault",
+        "Price (GBP)":25.55,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Year of Living Biblically: One Man's Humble Quest to Follow the Bible as Literally as Possible",
+        "Price (GBP)":34.72,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Whale",
+        "Price (GBP)":35.96,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Story of Art",
+        "Price (GBP)":41.14,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Origin of Species",
+        "Price (GBP)":10.01,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Great Gatsby",
+        "Price (GBP)":36.05,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Good Girl",
+        "Price (GBP)":49.03,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Glass Castle",
+        "Price (GBP)":16.24,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Faith of Christopher Hitchens: The Restless Soul of the World's Most Notorious Atheist",
+        "Price (GBP)":39.55,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Drowning Girls",
+        "Price (GBP)":35.67,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Constant Princess (The Tudor Court #1)",
+        "Price (GBP)":16.62,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Bourne Identity (Jason Bourne #1)",
+        "Price (GBP)":42.78,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Bachelor Girl's Guide to Murder (Herringford and Watts Mysteries #1)",
+        "Price (GBP)":52.3,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Art Book",
+        "Price (GBP)":32.34,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change",
+        "Price (GBP)":33.17,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Team of Rivals: The Political Genius of Abraham Lincoln",
+        "Price (GBP)":20.12,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Steal Like an Artist: 10 Things Nobody Told You About Being Creative",
+        "Price (GBP)":20.9,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Sit, Stay, Love",
+        "Price (GBP)":20.9,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Sister Dear",
+        "Price (GBP)":40.2,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Shrunken Treasures: Literary Classics, Short, Sweet, and Silly",
+        "Price (GBP)":52.87,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Rich Dad, Poor Dad",
+        "Price (GBP)":51.74,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Raymie Nightingale",
+        "Price (GBP)":34.41,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Playing from the Heart",
+        "Price (GBP)":32.38,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Nightstruck: A Novel",
+        "Price (GBP)":50.35,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Naturally Lean: 125 Nourishing Gluten-Free, Plant-Based Recipes--All Under 300 Calories",
+        "Price (GBP)":11.38,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Meternity",
+        "Price (GBP)":43.58,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Memoirs of a Geisha",
+        "Price (GBP)":49.67,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Like Never Before (Walker Family #2)",
+        "Price (GBP)":28.77,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Life of Pi",
+        "Price (GBP)":13.22,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Leave This Song Behind: Teen Poetry at Its Best",
+        "Price (GBP)":51.17,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"King's Folly (The Kinsman Chronicles #1)",
+        "Price (GBP)":39.61,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"John Adams",
+        "Price (GBP)":57.43,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"How to Cook Everything Vegetarian: Simple Meatless Recipes for Great Food (How to Cook Everything)",
+        "Price (GBP)":46.01,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"How to Be a Domestic Goddess: Baking and the Art of Comfort Cooking",
+        "Price (GBP)":28.25,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Good in Bed (Cannie Shapiro #1)",
+        "Price (GBP)":37.05,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Fruits Basket, Vol. 7 (Fruits Basket #7)",
+        "Price (GBP)":19.57,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"For the Love: Fighting for Grace in a World of Impossible Standards",
+        "Price (GBP)":45.13,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Finding God in the Ruins: How God Redeems Pain",
+        "Price (GBP)":46.64,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Every Heart a Doorway (Every Heart A Doorway #1)",
+        "Price (GBP)":12.16,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Delivering the Truth (Quaker Midwife Mystery #1)",
+        "Price (GBP)":20.89,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Counted With the Stars (Out from Egypt #1)",
+        "Price (GBP)":17.97,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Chronicles, Vol. 1",
+        "Price (GBP)":52.6,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Blue Like Jazz: Nonreligious Thoughts on Christian Spirituality",
+        "Price (GBP)":25.77,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Benjamin Franklin: An American Life",
+        "Price (GBP)":48.19,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"At The Existentialist Caf\u00e9: Freedom, Being, and apricot cocktails with: Jean-Paul Sartre, Simone de Beauvoir, Albert Camus, Martin Heidegger, Edmund Husserl, Karl Jaspers, Maurice Merleau-Ponty and others",
+        "Price (GBP)":29.93,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"A Summer In Europe",
+        "Price (GBP)":44.34,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"A Short History of Nearly Everything",
+        "Price (GBP)":52.4,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"A Gathering of Shadows (Shades of Magic #2)",
+        "Price (GBP)":44.81,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Sound Of Love",
+        "Price (GBP)":57.84,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Rise and Fall of the Third Reich: A History of Nazi Germany",
+        "Price (GBP)":39.67,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Perks of Being a Wallflower",
+        "Price (GBP)":55.02,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Mysterious Affair at Styles (Hercule Poirot #1)",
+        "Price (GBP)":24.8,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Man Who Mistook His Wife for a Hat and Other Clinical Tales",
+        "Price (GBP)":59.45,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Makings of a Fatherless Child",
+        "Price (GBP)":31.58,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Joy of Cooking",
+        "Price (GBP)":43.27,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Invention of Wings",
+        "Price (GBP)":37.34,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Hobbit (Middle-Earth Universe)",
+        "Price (GBP)":17.8,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Great Railway Bazaar",
+        "Price (GBP)":30.54,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Golden Compass (His Dark Materials #1)",
+        "Price (GBP)":18.77,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The God Delusion",
+        "Price (GBP)":46.85,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Girl You Left Behind (The Girl You Left Behind #1)",
+        "Price (GBP)":15.79,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Fellowship of the Ring (The Lord of the Rings #1)",
+        "Price (GBP)":10.27,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Collected Poems of W.B. Yeats (The Collected Works of W.B. Yeats #1)",
+        "Price (GBP)":15.42,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Barefoot Contessa Cookbook",
+        "Price (GBP)":59.92,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Tell the Wolves I'm Home",
+        "Price (GBP)":50.96,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Ship Leaves Harbor: Essays on Travel by a Recovering Journeyman",
+        "Price (GBP)":30.6,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Pride and Prejudice",
+        "Price (GBP)":19.27,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Musicophilia: Tales of Music and the Brain",
+        "Price (GBP)":46.58,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Mere Christianity",
+        "Price (GBP)":48.51,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Me Before You (Me Before You #1)",
+        "Price (GBP)":19.02,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"In the Woods (Dublin Murder Squad #1)",
+        "Price (GBP)":38.38,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"In Cold Blood",
+        "Price (GBP)":49.98,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"How to Stop Worrying and Start Living",
+        "Price (GBP)":46.49,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Give It Back",
+        "Price (GBP)":18.32,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Girl, Interrupted",
+        "Price (GBP)":42.14,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Fun Home: A Family Tragicomic",
+        "Price (GBP)":56.59,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Fruits Basket, Vol. 6 (Fruits Basket #6)",
+        "Price (GBP)":20.96,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Deception Point",
+        "Price (GBP)":40.32,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Death Note, Vol. 6: Give-and-Take (Death Note #6)",
+        "Price (GBP)":36.39,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Catherine the Great: Portrait of a Woman",
+        "Price (GBP)":58.55,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Better Homes and Gardens New Cook Book",
+        "Price (GBP)":39.61,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"An Unquiet Mind: A Memoir of Moods and Madness",
+        "Price (GBP)":21.3,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"A Year in Provence (Provence #1)",
+        "Price (GBP)":56.88,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"World Without End (The Pillars of the Earth #2)",
+        "Price (GBP)":32.97,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Will Grayson, Will Grayson (Will Grayson, Will Grayson)",
+        "Price (GBP)":47.31,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Why Save the Bankers?: And Other Essays on Our Economic and Political Crisis",
+        "Price (GBP)":48.67,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Where She Went (If I Stay #2)",
+        "Price (GBP)":41.73,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"What If?: Serious Scientific Answers to Absurd Hypothetical Questions",
+        "Price (GBP)":53.68,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Two Summers",
+        "Price (GBP)":14.64,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"This Is Your Brain on Music: The Science of a Human Obsession",
+        "Price (GBP)":38.4,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Secret Garden",
+        "Price (GBP)":15.08,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Raven King (The Raven Cycle #4)",
+        "Price (GBP)":30.57,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Raven Boys (The Raven Cycle #1)",
+        "Price (GBP)":57.74,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Power Greens Cookbook: 140 Delicious Superfood Recipes",
+        "Price (GBP)":11.05,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Metamorphosis",
+        "Price (GBP)":28.58,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Mathews Men: Seven Brothers and the War Against Hitler's U-boats",
+        "Price (GBP)":42.91,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Little Paris Bookshop",
+        "Price (GBP)":24.73,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Hiding Place",
+        "Price (GBP)":55.91,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Grand Design",
+        "Price (GBP)":13.76,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Firm",
+        "Price (GBP)":45.56,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Fault in Our Stars",
+        "Price (GBP)":47.22,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The False Prince (The Ascendance Trilogy #1)",
+        "Price (GBP)":56.0,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Expatriates",
+        "Price (GBP)":44.58,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Dream Thieves (The Raven Cycle #2)",
+        "Price (GBP)":34.5,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Darkest Corners",
+        "Price (GBP)":11.33,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Crossover",
+        "Price (GBP)":38.77,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The 5th Wave (The 5th Wave #1)",
+        "Price (GBP)":11.83,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Tell the Wind and Fire",
+        "Price (GBP)":45.51,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Tell Me Three Things",
+        "Price (GBP)":41.81,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Talking to Girls About Duran Duran: One Young Man's Quest for True Love and a Cooler Haircut",
+        "Price (GBP)":25.15,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Siddhartha",
+        "Price (GBP)":34.22,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Shiver (The Wolves of Mercy Falls #1)",
+        "Price (GBP)":16.23,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Remember Me?",
+        "Price (GBP)":11.48,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Red Dragon (Hannibal Lecter #1)",
+        "Price (GBP)":23.37,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Peak: Secrets from the New Science of Expertise",
+        "Price (GBP)":16.28,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"My Mother Was Nuts",
+        "Price (GBP)":31.63,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Mexican Today: New and Rediscovered Recipes for Contemporary Kitchens",
+        "Price (GBP)":24.91,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Maybe Something Beautiful: How Art Transformed a Neighborhood",
+        "Price (GBP)":22.54,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Lola and the Boy Next Door (Anna and the French Kiss #2)",
+        "Price (GBP)":23.63,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Logan Kade (Fallen Crest High #5.5)",
+        "Price (GBP)":13.12,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Last One Home (New Beginnings #1)",
+        "Price (GBP)":59.98,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Killing Floor (Jack Reacher #1)",
+        "Price (GBP)":31.49,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Kill the Boy Band",
+        "Price (GBP)":15.52,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Isla and the Happily Ever After (Anna and the French Kiss #3)",
+        "Price (GBP)":48.13,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"If I Stay (If I Stay #1)",
+        "Price (GBP)":38.13,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"I Know Why the Caged Bird Sings (Maya Angelou's Autobiography #1)",
+        "Price (GBP)":36.55,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Harry Potter and the Deathly Hallows (Harry Potter #7)",
+        "Price (GBP)":23.32,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Fruits Basket, Vol. 5 (Fruits Basket #5)",
+        "Price (GBP)":16.33,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Foundation (Foundation (Publication Order) #1)",
+        "Price (GBP)":32.42,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Fool Me Once",
+        "Price (GBP)":16.96,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Find Her (Detective D.D. Warren #8)",
+        "Price (GBP)":22.37,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Evicted: Poverty and Profit in the American City",
+        "Price (GBP)":42.27,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Drama",
+        "Price (GBP)":38.7,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Dracula the Un-Dead",
+        "Price (GBP)":35.63,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Digital Fortress",
+        "Price (GBP)":58.0,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Death Note, Vol. 5: Whiteout (Death Note #5)",
+        "Price (GBP)":52.41,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Data, A Love Story: How I Gamed Online Dating to Meet My Match",
+        "Price (GBP)":32.35,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Critique of Pure Reason",
+        "Price (GBP)":20.75,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Booked",
+        "Price (GBP)":17.49,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Blue Lily, Lily Blue (The Raven Cycle #3)",
+        "Price (GBP)":34.13,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Approval Junkie: Adventures in Caring Too Much",
+        "Price (GBP)":58.81,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"An Abundance of Katherines",
+        "Price (GBP)":10.0,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"America's War for the Greater Middle East: A Military History",
+        "Price (GBP)":51.22,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Alight (The Generations Trilogy #2)",
+        "Price (GBP)":58.59,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"A Girl's Guide to Moving On (New Beginnings #2)",
+        "Price (GBP)":31.3,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"A Game of Thrones (A Song of Ice and Fire #1)",
+        "Price (GBP)":46.42,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"A Feast for Crows (A Song of Ice and Fire #4)",
+        "Price (GBP)":17.21,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"A Clash of Kings (A Song of Ice and Fire #2)",
+        "Price (GBP)":10.79,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Vogue Colors A to Z: A Fashion Coloring Book",
+        "Price (GBP)":52.35,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Shining (The Shining #1)",
+        "Price (GBP)":27.88,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Pilgrim's Progress",
+        "Price (GBP)":50.26,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Perfect Play (Play by Play #1)",
+        "Price (GBP)":59.99,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Passion of Dolssa",
+        "Price (GBP)":28.32,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Jazz of Physics: The Secret Link Between Music and the Structure of the Universe",
+        "Price (GBP)":38.71,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Hunger Games (The Hunger Games #1)",
+        "Price (GBP)":29.85,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Hound of the Baskervilles (Sherlock Holmes #5)",
+        "Price (GBP)":14.82,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Gunning of America: Business and the Making of American Gun Culture",
+        "Price (GBP)":16.81,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Geography of Bliss: One Grump's Search for the Happiest Places in the World",
+        "Price (GBP)":28.23,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Demonists (Demonist #1)",
+        "Price (GBP)":52.11,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Demon Prince of Momochi House, Vol. 4 (The Demon Prince of Momochi House #4)",
+        "Price (GBP)":27.88,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Bone Hunters (Lexy Vaughan & Steven Macaulay #2)",
+        "Price (GBP)":59.71,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Beast (Black Dagger Brotherhood #14)",
+        "Price (GBP)":46.08,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Some Women",
+        "Price (GBP)":13.73,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Shopaholic Ties the Knot (Shopaholic #3)",
+        "Price (GBP)":48.39,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Paper and Fire (The Great Library #2)",
+        "Price (GBP)":49.45,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Outlander (Outlander #1)",
+        "Price (GBP)":19.67,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Orchestra of Exiles: The Story of Bronislaw Huberman, the Israel Philharmonic, and the One Thousand Jews He Saved from Nazi Horrors",
+        "Price (GBP)":12.36,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"No One Here Gets Out Alive",
+        "Price (GBP)":20.02,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Night Shift (Night Shift #1-20)",
+        "Price (GBP)":12.75,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Needful Things",
+        "Price (GBP)":47.51,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Mockingjay (The Hunger Games #3)",
+        "Price (GBP)":20.44,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Misery",
+        "Price (GBP)":34.79,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Little Women (Little Women #1)",
+        "Price (GBP)":28.07,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"It",
+        "Price (GBP)":25.01,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Harry Potter and the Sorcerer's Stone (Harry Potter #1)",
+        "Price (GBP)":13.9,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Harry Potter and the Prisoner of Azkaban (Harry Potter #3)",
+        "Price (GBP)":24.17,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Harry Potter and the Order of the Phoenix (Harry Potter #5)",
+        "Price (GBP)":31.63,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Harry Potter and the Half-Blood Prince (Harry Potter #6)",
+        "Price (GBP)":48.75,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Harry Potter and the Chamber of Secrets (Harry Potter #2)",
+        "Price (GBP)":14.74,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Gone with the Wind",
+        "Price (GBP)":32.49,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"God Is Not Great: How Religion Poisons Everything",
+        "Price (GBP)":27.8,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Girl With a Pearl Earring",
+        "Price (GBP)":26.77,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Fruits Basket, Vol. 4 (Fruits Basket #4)",
+        "Price (GBP)":50.44,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Far From True (Promise Falls Trilogy #2)",
+        "Price (GBP)":34.93,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Dark Lover (Black Dagger Brotherhood #1)",
+        "Price (GBP)":12.87,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Confessions of a Shopaholic (Shopaholic #1)",
+        "Price (GBP)":48.94,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Changing the Game (Play by Play #2)",
+        "Price (GBP)":13.38,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Candide",
+        "Price (GBP)":58.63,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Can You Keep a Secret?",
+        "Price (GBP)":21.94,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Atlas Shrugged",
+        "Price (GBP)":26.58,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Animal Farm",
+        "Price (GBP)":57.22,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"A Walk to Remember",
+        "Price (GBP)":56.43,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"A New Earth: Awakening to Your Life's Purpose",
+        "Price (GBP)":55.65,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"A History of God: The 4,000-Year Quest of Judaism, Christianity, and Islam",
+        "Price (GBP)":27.62,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"'Salem's Lot",
+        "Price (GBP)":49.56,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Zero History (Blue Ant #3)",
+        "Price (GBP)":34.77,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Wuthering Heights",
+        "Price (GBP)":17.73,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"World War Z: An Oral History of the Zombie War",
+        "Price (GBP)":21.8,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Wild: From Lost to Found on the Pacific Crest Trail",
+        "Price (GBP)":46.02,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Where'd You Go, Bernadette",
+        "Price (GBP)":18.13,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"When You Are Engulfed in Flames",
+        "Price (GBP)":30.89,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"We the People: The Modern-Day Figures Who Have Reshaped and Affirmed the Founding Fathers' Vision of America",
+        "Price (GBP)":31.95,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"We Are All Completely Beside Ourselves",
+        "Price (GBP)":24.04,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Walk the Edge (Thunder Road #2)",
+        "Price (GBP)":32.36,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Voyager (Outlander #3)",
+        "Price (GBP)":21.07,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Very Good Lives: The Fringe Benefits of Failure and the Importance of Imagination",
+        "Price (GBP)":50.66,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Vegan Vegetarian Omnivore: Dinner for Everyone at the Table",
+        "Price (GBP)":13.66,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Unstuffed: Decluttering Your Home, Mind, and Soul",
+        "Price (GBP)":58.09,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Under the Banner of Heaven: A Story of Violent Faith",
+        "Price (GBP)":30.0,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Two Boys Kissing",
+        "Price (GBP)":32.74,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Twilight (Twilight #1)",
+        "Price (GBP)":41.93,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Twenties Girl",
+        "Price (GBP)":42.8,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Trespassing Across America: One Man's Epic, Never-Done-Before (and Sort of Illegal) Hike Across the Heartland",
+        "Price (GBP)":53.51,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Three-Martini Lunch",
+        "Price (GBP)":23.21,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Thinking, Fast and Slow",
+        "Price (GBP)":21.14,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Wild Robot",
+        "Price (GBP)":56.07,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Wicked + The Divine, Vol. 3: Commercial Suicide (The Wicked + The Divine)",
+        "Price (GBP)":14.41,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Undomestic Goddess",
+        "Price (GBP)":45.75,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Travelers",
+        "Price (GBP)":15.77,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Tipping Point: How Little Things Can Make a Big Difference",
+        "Price (GBP)":10.02,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Thing About Jellyfish",
+        "Price (GBP)":48.77,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Stand",
+        "Price (GBP)":57.86,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Smitten Kitchen Cookbook",
+        "Price (GBP)":23.59,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Silkworm (Cormoran Strike #2)",
+        "Price (GBP)":23.05,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Sandman, Vol. 3: Dream Country (The Sandman (volumes) #3)",
+        "Price (GBP)":55.55,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Rose & the Dagger (The Wrath and the Dawn #2)",
+        "Price (GBP)":58.64,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Road to Little Dribbling: Adventures of an American in Britain (Notes From a Small Island #2)",
+        "Price (GBP)":23.21,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Rise of Theodore Roosevelt (Theodore Roosevelt #1)",
+        "Price (GBP)":42.57,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Restaurant at the End of the Universe (Hitchhiker's Guide to the Galaxy #2)",
+        "Price (GBP)":10.92,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Rest Is Noise: Listening to the Twentieth Century",
+        "Price (GBP)":34.77,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Red Tent",
+        "Price (GBP)":35.66,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Purpose Driven Life: What on Earth Am I Here for?",
+        "Price (GBP)":37.19,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Purest Hook (Second Circle Tattoos #3)",
+        "Price (GBP)":12.25,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Picture of Dorian Gray",
+        "Price (GBP)":29.7,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Paris Wife",
+        "Price (GBP)":36.8,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Obsession",
+        "Price (GBP)":45.43,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Nightingale",
+        "Price (GBP)":26.26,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The New Guy (and Other Senior Year Distractions)",
+        "Price (GBP)":44.92,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Nanny Diaries (Nanny #1)",
+        "Price (GBP)":52.53,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Name of God is Mercy",
+        "Price (GBP)":37.25,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Maze Runner (The Maze Runner #1)",
+        "Price (GBP)":20.93,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Lover's Dictionary",
+        "Price (GBP)":58.09,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Lonely Ones",
+        "Price (GBP)":43.59,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses",
+        "Price (GBP)":33.92,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Last Painting of Sara de Vos",
+        "Price (GBP)":55.55,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Land of 10,000 Madonnas",
+        "Price (GBP)":29.64,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Infinities",
+        "Price (GBP)":27.41,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Husband's Secret",
+        "Price (GBP)":52.51,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Hitchhiker's Guide to the Galaxy (Hitchhiker's Guide to the Galaxy #1)",
+        "Price (GBP)":47.8,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Guns of August",
+        "Price (GBP)":14.54,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Guernsey Literary and Potato Peel Pie Society",
+        "Price (GBP)":49.53,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Goldfinch",
+        "Price (GBP)":43.58,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Giver (The Giver Quartet #1)",
+        "Price (GBP)":12.3,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Girl with All the Gifts",
+        "Price (GBP)":49.47,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Girl Who Played with Fire (Millennium Trilogy #2)",
+        "Price (GBP)":22.14,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Girl Who Kicked the Hornet's Nest (Millennium Trilogy #3)",
+        "Price (GBP)":57.48,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Exiled",
+        "Price (GBP)":43.45,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The End of Faith: Religion, Terror, and the Future of Reason",
+        "Price (GBP)":22.13,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Elegant Universe: Superstrings, Hidden Dimensions, and the Quest for the Ultimate Theory",
+        "Price (GBP)":13.03,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Disappearing Spoon: And Other True Tales of Madness, Love, and the History of the World from the Periodic Table of the Elements",
+        "Price (GBP)":57.35,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Devil Wears Prada (The Devil Wears Prada #1)",
+        "Price (GBP)":44.29,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Demon-Haunted World: Science as a Candle in the Dark",
+        "Price (GBP)":52.25,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Day the Crayons Came Home (Crayons)",
+        "Price (GBP)":26.33,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Da Vinci Code (Robert Langdon #2)",
+        "Price (GBP)":22.96,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Cuckoo's Calling (Cormoran Strike #1)",
+        "Price (GBP)":19.21,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Complete Stories and Poems (The Works of Edgar Allan Poe [Cameo Edition])",
+        "Price (GBP)":26.78,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Complete Poems",
+        "Price (GBP)":41.32,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Catcher in the Rye",
+        "Price (GBP)":24.55,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Cat in the Hat (Beginner Books B-1)",
+        "Price (GBP)":16.26,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Case for Christ (Cases for Christianity)",
+        "Price (GBP)":47.84,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Book Thief",
+        "Price (GBP)":53.49,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Book of Basketball: The NBA According to The Sports Guy",
+        "Price (GBP)":44.84,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Blind Side: Evolution of a Game",
+        "Price (GBP)":53.71,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Autobiography of Malcolm X",
+        "Price (GBP)":23.43,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Art of Simple Food: Notes, Lessons, and Recipes from a Delicious Revolution",
+        "Price (GBP)":34.32,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Art of Fielding",
+        "Price (GBP)":22.1,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Surely You're Joking, Mr. Feynman!: Adventures of a Curious Character",
+        "Price (GBP)":25.83,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Stiff: The Curious Lives of Human Cadavers",
+        "Price (GBP)":36.74,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Spilled Milk: Based on a True Story",
+        "Price (GBP)":49.51,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Something Borrowed (Darcy & Rachel #1)",
+        "Price (GBP)":48.96,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Something Blue (Darcy & Rachel #2)",
+        "Price (GBP)":54.62,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Soldier (Talon #3)",
+        "Price (GBP)":24.72,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Shopaholic & Baby (Shopaholic #5)",
+        "Price (GBP)":46.45,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Seven Days in the Art World",
+        "Price (GBP)":52.33,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Seven Brief Lessons on Physics",
+        "Price (GBP)":30.6,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Scarlet (The Lunar Chronicles #2)",
+        "Price (GBP)":14.57,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Sarah's Key",
+        "Price (GBP)":46.29,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Saga, Volume 3 (Saga (Collected Editions) #3)",
+        "Price (GBP)":21.57,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Running with Scissors",
+        "Price (GBP)":12.91,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Rogue Lawyer (Rogue Lawyer #1)",
+        "Price (GBP)":50.11,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Rise of the Rocket Girls: The Women Who Propelled Us, from Missiles to the Moon to Mars",
+        "Price (GBP)":41.67,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Rework",
+        "Price (GBP)":44.88,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Reservations for Two",
+        "Price (GBP)":11.1,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Red: The True Story of Red Riding Hood",
+        "Price (GBP)":28.54,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Ready Player One",
+        "Price (GBP)":19.07,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Quiet: The Power of Introverts in a World That Can't Stop Talking",
+        "Price (GBP)":43.55,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Prodigy: The Graphic Novel (Legend: The Graphic Novel #2)",
+        "Price (GBP)":43.63,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Persepolis: The Story of a Childhood (Persepolis #1-2)",
+        "Price (GBP)":39.13,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Packing for Mars: The Curious Science of Life in the Void",
+        "Price (GBP)":56.68,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Outliers: The Story of Success",
+        "Price (GBP)":14.16,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Original Fake",
+        "Price (GBP)":31.45,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Orange Is the New Black",
+        "Price (GBP)":24.61,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"One for the Money (Stephanie Plum #1)",
+        "Price (GBP)":32.87,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Notes from a Small Island (Notes From a Small Island #1)",
+        "Price (GBP)":40.17,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Night (The Night Trilogy #1)",
+        "Price (GBP)":13.51,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Neither Here nor There: Travels in Europe",
+        "Price (GBP)":38.95,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Naked",
+        "Price (GBP)":31.69,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Morning Star (Red Rising #3)",
+        "Price (GBP)":29.4,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Miracles from Heaven: A Little Girl, Her Journey to Heaven, and Her Amazing Story of Healing",
+        "Price (GBP)":57.83,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Midnight Riot (Peter Grant\/ Rivers of London - books #1)",
+        "Price (GBP)":55.46,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Me Talk Pretty One Day",
+        "Price (GBP)":57.6,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Manuscript Found in Accra",
+        "Price (GBP)":34.98,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Lust & Wonder",
+        "Price (GBP)":11.87,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Lila (Gilead #3)",
+        "Price (GBP)":12.47,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Life, the Universe and Everything (Hitchhiker's Guide to the Galaxy #3)",
+        "Price (GBP)":33.26,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Life Without a Recipe",
+        "Price (GBP)":59.04,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Life After Life",
+        "Price (GBP)":26.13,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Letter to a Christian Nation",
+        "Price (GBP)":22.2,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Let's Pretend This Never Happened: A Mostly True Memoir",
+        "Price (GBP)":45.11,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Legend (Legend #1)",
+        "Price (GBP)":43.69,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Lean In: Women, Work, and the Will to Lead",
+        "Price (GBP)":25.02,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Lamb: The Gospel According to Biff, Christ's Childhood Pal",
+        "Price (GBP)":55.5,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Lady Renegades (Rebel Belle #3)",
+        "Price (GBP)":53.04,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Jurassic Park (Jurassic Park #1)",
+        "Price (GBP)":44.97,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"It's Never Too Late to Begin Again: Discovering Creativity and Meaning at Midlife and Beyond",
+        "Price (GBP)":42.38,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Is Everyone Hanging Out Without Me? (And Other Concerns)",
+        "Price (GBP)":20.11,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Into the Wild",
+        "Price (GBP)":56.7,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Inferno (Robert Langdon #4)",
+        "Price (GBP)":41.0,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"In the Garden of Beasts: Love, Terror, and an American Family in Hitler's Berlin",
+        "Price (GBP)":28.85,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"If I Run (If I Run #1)",
+        "Price (GBP)":49.97,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"I've Got Your Number",
+        "Price (GBP)":19.69,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"I Am Malala: The Girl Who Stood Up for Education and Was Shot by the Taliban",
+        "Price (GBP)":28.88,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Hungry Girl Clean & Hungry: Easy All-Natural Recipes for Healthy Eating in the Real World",
+        "Price (GBP)":33.14,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"House of Lost Worlds: Dinosaurs, Dynasties, and the Story of Life on Earth",
+        "Price (GBP)":43.7,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"House of Leaves",
+        "Price (GBP)":54.89,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Horrible Bear!",
+        "Price (GBP)":37.52,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Holidays on Ice",
+        "Price (GBP)":51.07,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Heir to the Sky",
+        "Price (GBP)":44.07,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Green Eggs and Ham (Beginner Books B-16)",
+        "Price (GBP)":10.79,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Grayson, Vol 3: Nemesis (Grayson #3)",
+        "Price (GBP)":42.72,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Gratitude",
+        "Price (GBP)":26.66,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Gone Girl",
+        "Price (GBP)":37.6,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Golden (Heart of Dread #3)",
+        "Price (GBP)":42.21,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Girl in the Blue Coat",
+        "Price (GBP)":46.83,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Fruits Basket, Vol. 3 (Fruits Basket #3)",
+        "Price (GBP)":45.17,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Friday Night Lights: A Town, a Team, and a Dream",
+        "Price (GBP)":51.22,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Fire Bound (Sea Haven\/Sisters of the Heart #5)",
+        "Price (GBP)":21.28,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Fifty Shades Freed (Fifty Shades #3)",
+        "Price (GBP)":15.36,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Fellside",
+        "Price (GBP)":38.62,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Extreme Prey (Lucas Davenport #26)",
+        "Price (GBP)":25.4,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Eragon (The Inheritance Cycle #1)",
+        "Price (GBP)":43.87,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Eclipse (Twilight #3)",
+        "Price (GBP)":18.74,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Dune (Dune #1)",
+        "Price (GBP)":54.86,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Dracula",
+        "Price (GBP)":52.62,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Do Androids Dream of Electric Sheep? (Blade Runner #1)",
+        "Price (GBP)":51.48,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Disrupted: My Misadventure in the Start-Up Bubble",
+        "Price (GBP)":15.28,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Dead Wake: The Last Crossing of the Lusitania",
+        "Price (GBP)":39.24,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"David and Goliath: Underdogs, Misfits, and the Art of Battling Giants",
+        "Price (GBP)":17.81,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Darkfever (Fever #1)",
+        "Price (GBP)":56.02,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Dark Places",
+        "Price (GBP)":23.9,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Crazy Rich Asians (Crazy Rich Asians #1)",
+        "Price (GBP)":49.13,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Counting Thyme",
+        "Price (GBP)":10.62,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Cosmos",
+        "Price (GBP)":36.17,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Civilization and Its Discontents",
+        "Price (GBP)":59.95,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Cinder (The Lunar Chronicles #1)",
+        "Price (GBP)":26.09,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Catastrophic Happiness: Finding Joy in Childhood's Messy Years",
+        "Price (GBP)":37.35,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Career of Evil (Cormoran Strike #3)",
+        "Price (GBP)":24.72,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Breaking Dawn (Twilight #4)",
+        "Price (GBP)":35.28,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Brave Enough",
+        "Price (GBP)":51.32,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Boy Meets Boy",
+        "Price (GBP)":21.12,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Born to Run: A Hidden Tribe, Superathletes, and the Greatest Race the World Has Never Seen",
+        "Price (GBP)":27.35,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Blink: The Power of Thinking Without Thinking",
+        "Price (GBP)":21.74,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Black Flags: The Rise of ISIS",
+        "Price (GBP)":40.87,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Black Butler, Vol. 1 (Black Butler #1)",
+        "Price (GBP)":49.31,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Big Little Lies",
+        "Price (GBP)":22.11,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Between Shades of Gray",
+        "Price (GBP)":20.79,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Best of My Love (Fool's Gold #20)",
+        "Price (GBP)":27.41,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Beowulf",
+        "Price (GBP)":38.35,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Beautiful Creatures (Caster Chronicles #1)",
+        "Price (GBP)":21.55,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Awkward",
+        "Price (GBP)":38.02,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Ash",
+        "Price (GBP)":22.06,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Are We There Yet?",
+        "Price (GBP)":10.66,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Are We Smart Enough to Know How Smart Animals Are?",
+        "Price (GBP)":56.58,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Annie on My Mind",
+        "Price (GBP)":36.83,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"And Then There Were None",
+        "Price (GBP)":35.01,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"A Walk in the Woods: Rediscovering America on the Appalachian Trail",
+        "Price (GBP)":30.48,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"A Visit from the Goon Squad",
+        "Price (GBP)":14.08,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"A Storm of Swords (A Song of Ice and Fire #3)",
+        "Price (GBP)":31.22,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"A Heartbreaking Work of Staggering Genius",
+        "Price (GBP)":54.29,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"8 Keys to Mental Health Through Exercise",
+        "Price (GBP)":31.04,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"#GIRLBOSS",
+        "Price (GBP)":50.96,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Suffragettes (Little Black Classics, #96)",
+        "Price (GBP)":11.89,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Sense of an Ending",
+        "Price (GBP)":31.38,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Sandman, Vol. 2: The Doll's House (The Sandman (volumes) #2)",
+        "Price (GBP)":54.81,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Course of Love",
+        "Price (GBP)":16.78,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Sugar Rush (Offensive Line #2)",
+        "Price (GBP)":24.42,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Saga, Volume 2 (Saga (Collected Editions) #2)",
+        "Price (GBP)":11.75,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Run, Spot, Run: The Ethics of Keeping Pets",
+        "Price (GBP)":20.02,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"New Moon (Twilight #2)",
+        "Price (GBP)":12.86,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Life",
+        "Price (GBP)":31.58,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Kindle Paperwhite User's Guide",
+        "Price (GBP)":34.0,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"H is for Hawk",
+        "Price (GBP)":57.42,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Girl Online On Tour (Girl Online #2)",
+        "Price (GBP)":53.47,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Fruits Basket, Vol. 2 (Fruits Basket #2)",
+        "Price (GBP)":11.64,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Diary of a Minecraft Zombie Book 1: A Scare of a Dare (An Unofficial Minecraft Book)",
+        "Price (GBP)":52.88,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Y: The Last Man, Vol. 1: Unmanned (Y: The Last Man #1)",
+        "Price (GBP)":18.51,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"While You Were Mine",
+        "Price (GBP)":41.32,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Where Lightning Strikes (Bleeding Stars #3)",
+        "Price (GBP)":39.77,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"When I'm Gone",
+        "Price (GBP)":51.96,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Ways of Seeing",
+        "Price (GBP)":39.51,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Vampire Knight, Vol. 1 (Vampire Knight #1)",
+        "Price (GBP)":15.4,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Vampire Girl (Vampire Girl #1)",
+        "Price (GBP)":53.82,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Twenty Love Poems and a Song of Despair",
+        "Price (GBP)":30.95,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Travels with Charley: In Search of America",
+        "Price (GBP)":57.82,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Three Wishes (River of Time: California #1)",
+        "Price (GBP)":44.18,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"This One Moment (Pushing Limits #1)",
+        "Price (GBP)":48.71,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Zombie Room",
+        "Price (GBP)":19.69,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Wicked + The Divine, Vol. 1: The Faust Act (The Wicked + The Divine)",
+        "Price (GBP)":36.52,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Tumor",
+        "Price (GBP)":41.56,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Story of Hong Gildong",
+        "Price (GBP)":43.19,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Silent Wife",
+        "Price (GBP)":12.34,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Silent Twin (Detective Jennifer Knight #3)",
+        "Price (GBP)":36.25,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Selfish Gene",
+        "Price (GBP)":29.45,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Secret Healer",
+        "Price (GBP)":34.56,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Sandman, Vol. 1: Preludes and Nocturnes (The Sandman (volumes) #1)",
+        "Price (GBP)":54.12,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Republic",
+        "Price (GBP)":33.78,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Odyssey",
+        "Price (GBP)":29.64,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The No. 1 Ladies' Detective Agency (No. 1 Ladies' Detective Agency #1)",
+        "Price (GBP)":57.7,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Nicomachean Ethics",
+        "Price (GBP)":36.34,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Name of the Wind (The Kingkiller Chronicle #1)",
+        "Price (GBP)":50.59,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Mirror & the Maze (The Wrath and the Dawn #1.5)",
+        "Price (GBP)":29.38,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Little Prince",
+        "Price (GBP)":45.42,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Light of the Fireflies",
+        "Price (GBP)":54.43,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Last Girl (The Dominion Trilogy #1)",
+        "Price (GBP)":36.26,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Iliad",
+        "Price (GBP)":16.16,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Hook Up (Game On #1)",
+        "Price (GBP)":36.29,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Haters",
+        "Price (GBP)":27.89,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Girl You Lost",
+        "Price (GBP)":12.29,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Girl In The Ice (DCI Erika Foster #1)",
+        "Price (GBP)":15.85,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The End of the Jesus Era (An Investigation #1)",
+        "Price (GBP)":14.4,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Edge of Reason (Bridget Jones #2)",
+        "Price (GBP)":19.18,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Complete Maus (Maus #1-2)",
+        "Price (GBP)":10.64,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Communist Manifesto",
+        "Price (GBP)":14.76,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Bhagavad Gita",
+        "Price (GBP)":57.49,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Bette Davis Club",
+        "Price (GBP)":30.66,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"The Art of Not Breathing",
+        "Price (GBP)":40.83,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Taking Shots (Assassins #1)",
+        "Price (GBP)":18.88,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Starlark",
+        "Price (GBP)":25.83,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Skip Beat!, Vol. 01 (Skip Beat! #1)",
+        "Price (GBP)":42.12,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Sister Sable (The Mad Queen #1)",
+        "Price (GBP)":13.33,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Shatter Me (Shatter Me #1)",
+        "Price (GBP)":42.4,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Shameless",
+        "Price (GBP)":58.35,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Shadow Rites (Jane Yellowrock #10)",
+        "Price (GBP)":21.72,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Settling the Score (The Summer Games #1)",
+        "Price (GBP)":44.91,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Sense and Sensibility",
+        "Price (GBP)":37.46,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Saga, Volume 1 (Saga (Collected Editions) #1)",
+        "Price (GBP)":28.48,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Rhythm, Chord & Malykhin",
+        "Price (GBP)":28.34,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Rat Queens, Vol. 1: Sass & Sorcery (Rat Queens (Collected Editions) #1-5)",
+        "Price (GBP)":46.96,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Paradise Lost (Paradise #1)",
+        "Price (GBP)":24.96,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Paper Girls, Vol. 1 (Paper Girls #1-5)",
+        "Price (GBP)":21.71,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Ouran High School Host Club, Vol. 1 (Ouran High School Host Club #1)",
+        "Price (GBP)":29.87,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Origins (Alphas 0.5)",
+        "Price (GBP)":28.99,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"One Second (Seven #7)",
+        "Price (GBP)":52.94,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"On the Road (Duluoz Legend)",
+        "Price (GBP)":32.36,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Old Records Never Die: One Man's Quest for His Vinyl and His Past",
+        "Price (GBP)":55.66,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Off Sides (Off #1)",
+        "Price (GBP)":39.45,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Of Mice and Men",
+        "Price (GBP)":47.11,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Myriad (Prentor #1)",
+        "Price (GBP)":58.75,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"My Perfect Mistake (Over the Top #1)",
+        "Price (GBP)":38.92,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Ms. Marvel, Vol. 1: No Normal (Ms. Marvel (2014-2015) #1)",
+        "Price (GBP)":39.39,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Meditations",
+        "Price (GBP)":25.89,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Matilda",
+        "Price (GBP)":28.34,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Lost Among the Living",
+        "Price (GBP)":27.7,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Lord of the Flies",
+        "Price (GBP)":24.89,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Listen to Me (Fusion #1)",
+        "Price (GBP)":58.99,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Kitchens of the Great Midwest",
+        "Price (GBP)":57.2,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Jane Eyre",
+        "Price (GBP)":38.43,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Imperfect Harmony",
+        "Price (GBP)":34.74,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Icing (Aces Hockey #2)",
+        "Price (GBP)":40.44,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Hawkeye, Vol. 1: My Life as a Weapon (Hawkeye #1)",
+        "Price (GBP)":45.24,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Having the Barbarian's Baby (Ice Planet Barbarians #7.5)",
+        "Price (GBP)":34.96,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Giant Days, Vol. 1 (Giant Days #1-4)",
+        "Price (GBP)":56.76,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Fruits Basket, Vol. 1 (Fruits Basket #1)",
+        "Price (GBP)":40.28,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Frankenstein",
+        "Price (GBP)":38.0,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Forever Rockers (The Rocker #12)",
+        "Price (GBP)":28.8,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Fighting Fate (Fighting #6)",
+        "Price (GBP)":39.24,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Emma",
+        "Price (GBP)":32.93,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Eat, Pray, Love",
+        "Price (GBP)":51.32,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Deep Under (Walker Security #1)",
+        "Price (GBP)":47.09,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Choosing Our Religion: The Spiritual Lives of America's Nones",
+        "Price (GBP)":28.42,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Charlie and the Chocolate Factory (Charlie Bucket #1)",
+        "Price (GBP)":22.85,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Charity's Cross (Charles Towne Belles #4)",
+        "Price (GBP)":41.24,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Bright Lines",
+        "Price (GBP)":39.07,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Bridget Jones's Diary (Bridget Jones #1)",
+        "Price (GBP)":29.82,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Bounty (Colorado Mountain #7)",
+        "Price (GBP)":37.26,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Blood Defense (Samantha Brinkman #1)",
+        "Price (GBP)":20.3,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Bleach, Vol. 1: Strawberry and the Soul Reapers (Bleach #1)",
+        "Price (GBP)":34.65,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Beyond Good and Evil",
+        "Price (GBP)":43.38,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Alice in Wonderland (Alice's Adventures in Wonderland #1)",
+        "Price (GBP)":55.53,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"Ajin: Demi-Human, Volume 1 (Ajin: Demi-Human #1)",
+        "Price (GBP)":57.06,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"A Spy's Devotion (The Regency Spies of London #1)",
+        "Price (GBP)":16.97,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"1st to Die (Women's Murder Club #1)",
+        "Price (GBP)":53.98,
+        "Availability":"In stock"
+    },
+    {
+        "Book Title":"1,000 Places to See Before You Die",
+        "Price (GBP)":26.08,
+        "Availability":"In stock"
+    }
+]
+
+
+
